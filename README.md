@@ -6,7 +6,7 @@ Persistent data storage and retrieval for issue tracking across sessions.
 Project Directory Structure
 StudentHelpDesk/
 │   ├── java/
-│   │   ├── Mainproj.java             # Java entry point
+│   │   ├── Main.java             # Java entry point
 │   │   ├── build_and_run.sh         # Build and execution script
 │   │   ├── projwithjni.cpp          # C++ logic implementation
 │   │   ├── jni/
